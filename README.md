@@ -1,4 +1,4 @@
-# 🚀 Cyberfortix Technologies Pvt Ltd
+# Cyberfortix Technologies Pvt Ltd
 
 🛡️ Cyberfortix Technologies Pvt Ltd is a cybersecurity-focused company delivering **practical, industry-aligned training** and **professional security services**.
 
