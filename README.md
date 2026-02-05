@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Cyberfortix Technologies Pvt Ltd
 
-<!--
-**cyberfortix/cyberfortix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cyberfortix Technologies Pvt Ltd is a cybersecurity-focused company delivering **practical, industry-aligned training** and **professional security services**.
 
-Here are some ideas to get you started:
+### 🔐 We specialize in:
+- 🎓 Cybersecurity training & skill development  
+- 🧪 Vulnerability Assessment & Penetration Testing (VAPT)  
+- 🌐 Web, network, and infrastructure security  
+- 📋 Security audits, risk assessment, and awareness programs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Our mission is to **bridge the gap between theory and real-world cybersecurity** by building job-ready professionals and helping organizations strengthen their security posture.
+
+© Cyberfortix Technologies Pvt Ltd
